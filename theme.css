@@ -1,0 +1,49 @@
+:root{
+    /* bg colors */
+    --bg-primary-color: rgb(17, 17, 17);
+    --bg-secondary-color: rgb(34, 34, 34);
+    --bg-active-color: rgb(233, 230, 230);
+    --bg-danger-color: rgb(255, 59, 48);
+    --bg-success-color: rgb(47, 190, 83);
+
+    /* text colors */
+    --text-primary-color: rgb(226, 216, 216);
+    --text-secondary-color: rgb(83, 78, 78);
+    --text-tertiary-color: rgb(150, 150, 150);
+    --text-active-color: rgb(17, 17, 17);
+
+    /*padding*/
+    --padding-small: 0.5rem;
+    --padding-medium: 1rem;
+    --padding-large: 1.5rem;
+    --padding-extra-large: 2rem;
+    --padding-2x-large: 3rem;
+
+    /* margin */
+    --margin-small: 0.5rem;
+    --margin-medium: 1rem;
+    --margin-large: 1.5rem; 
+    --margin-extra-large: 2rem;
+    --margin-2x-large: 3rem;
+
+    /* gutter */ /* spacing between elements used for display flex*/
+    --gutter-small: 0.5rem;
+    --gutter-medium: 1rem;
+    --gutter-large: 1.5rem;
+    --gutter-extra-large: 2rem;
+    --gutter-2x-large: 3rem;
+
+    /*font sizes*/
+    --font-size-small: 0.75rem;
+    --font-size-medium: 1rem;
+    --font-size-large: 1.5rem;
+    --font-size-extra-large: 2rem;
+    --font-size-2x-large: 3rem;
+
+    /* border radius */
+    --border-radius-small: 4px;
+    --border-radius-medium: 8px;
+    --border-radius-large: 12px;    
+    --border-radius-extra-large: 16px;
+    --border-radius-2x-large: 24px;
+}
